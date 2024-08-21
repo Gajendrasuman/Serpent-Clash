@@ -37,4 +37,4 @@
 
 ---
 
-For more information, refer to the [Game Models](GAME_MODELS.md) and [Action Charts](ACTION_CHARTS.md).
+For more information, refer to the [Game Models](Game-Models.md) and [Action Charts](Action-Chart.md).
